@@ -1,7 +1,7 @@
 public class Demo6a {
     public static void main(String[] args) {
         String bcolor1 = "\033[41m";
-        String bcolor2 = "\033[45m";
+        String bcolor2 = "\033[42m";
         String fcolor1 = "\033[35m";
         String fcolor2 = "\033[30m";
         String reset = "\033[0m";
